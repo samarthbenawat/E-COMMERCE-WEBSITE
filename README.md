@@ -1,7 +1,7 @@
 # E-COMMERCE-RESTAURANT-WEBSITE
 ### This project contains both backend and frontend of restaurant e-commerce website.
 ## ABOUT
-### 1.It contains login ,regsiter and home page of e-commerce website.
+### 1.It contains login ,register and home page of e-commerce website.
 ### 2.Implemented user authentication .
 ## TOOLS AND LIBRARIES USED
 ### 1.Bootstrap frame-work for frontend.
